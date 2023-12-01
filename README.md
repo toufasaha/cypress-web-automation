@@ -11,7 +11,7 @@
  - Browser Installation
    
 ## How to run this project:
--```npm i --save-dev cypress-mochawesome-reporter```
+- ```npm i --save-dev cypress-mochawesome-reporter```
 - ```npx cypress run```
 
 ## Test Report
